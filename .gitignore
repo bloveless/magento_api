@@ -16,3 +16,7 @@ tmp
 .yardoc
 _yardoc
 doc/
+passwords.rb
+for-wallpaper-merge-csv.rb
+magento-test-image.rb
+magento.rb
